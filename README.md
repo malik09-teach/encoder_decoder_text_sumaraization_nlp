@@ -1,0 +1,2 @@
+# encoder_decoder_text_sumaraization_nlp
+text sumaraization model
